@@ -1,0 +1,154 @@
+2019-10-08 15:32:32.961 | INFO     | public.common.mytest:setUp:18 - ############################### START ###############################
+2019-10-08 15:32:35.714 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.752157211303711 seconds
+2019-10-08 15:32:36.850 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1360652446746826 seconds
+2019-10-08 15:32:39.614 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090, Spend 2.764158010482788 seconds
+2019-10-08 15:32:39.614 | INFO     | public.common.mytest:setUp:22 - ´ò¿ªhttp://39.100.87.170:8090
+2019-10-08 15:32:39.757 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.14200806617736816 seconds
+2019-10-08 15:32:39.854 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.09600543975830078 seconds
+2019-10-08 15:32:39.910 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.05600333213806152 seconds
+2019-10-08 15:33:10.487 | INFO     | public.common.pyselenium:my_print:74 - FAIL    Unable to get element text element: <class->user-name>, Spend 30.577748775482178 seconds
+2019-10-08 15:33:10.853 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_login.TestLogin.test_01_login_1_20191008153310_NG.png, Spend 0.36602091789245605 seconds
+2019-10-08 15:33:12.934 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0811192989349365 seconds
+2019-10-08 15:33:12.935 | INFO     | public.common.mytest:tearDown:26 - ###############################  End  ###############################
+2019-10-08 15:33:12.973 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 15:33:15.543 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5681467056274414 seconds
+2019-10-08 15:33:16.686 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1430654525756836 seconds
+2019-10-08 15:33:20.233 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090, Spend 3.5462028980255127 seconds
+2019-10-08 15:33:20.233 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090
+2019-10-08 15:33:20.361 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.12700724601745605 seconds
+2019-10-08 15:33:20.451 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.0890049934387207 seconds
+2019-10-08 15:33:20.522 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.07000398635864258 seconds
+2019-10-08 15:33:51.221 | INFO     | public.common.pyselenium:my_print:74 - FAIL    Unable to click element: <class->close>, Spend 30.698756217956543 seconds
+2019-10-08 15:33:51.632 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_workbench.TestWorkbench.test_loginout_1_20191008153351_NG.png, Spend 0.41002345085144043 seconds
+2019-10-08 15:33:53.727 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0941195487976074 seconds
+2019-10-08 15:33:53.727 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 15:33:53.730 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 15:33:56.295 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5641465187072754 seconds
+2019-10-08 15:33:57.422 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1270644664764404 seconds
+2019-10-08 15:34:00.896 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090, Spend 3.474198579788208 seconds
+2019-10-08 15:34:00.896 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090
+2019-10-08 15:34:01.029 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.13300776481628418 seconds
+2019-10-08 15:34:01.105 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.0760042667388916 seconds
+2019-10-08 15:34:01.168 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.0630037784576416 seconds
+2019-10-08 15:34:31.798 | INFO     | public.common.pyselenium:my_print:74 - FAIL    Unable to click element: <css->.el-submenu.is-opened>, Spend 30.629751682281494 seconds
+2019-10-08 15:34:32.226 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_workbench.TestWorkbench.test_luandian_20191008153431_NG.png, Spend 0.4280245304107666 seconds
+2019-10-08 15:34:34.323 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0971200466156006 seconds
+2019-10-08 15:34:34.323 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 15:37:16.363 | INFO     | public.common.mytest:setUp:18 - ############################### START ###############################
+2019-10-08 15:37:18.934 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5711472034454346 seconds
+2019-10-08 15:37:20.072 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1360650062561035 seconds
+2019-10-08 15:37:23.807 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 3.734213352203369 seconds
+2019-10-08 15:37:23.808 | INFO     | public.common.mytest:setUp:22 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 15:37:23.943 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.1350078582763672 seconds
+2019-10-08 15:37:24.039 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.09600520133972168 seconds
+2019-10-08 15:37:24.097 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.057003021240234375 seconds
+2019-10-08 15:37:54.687 | INFO     | public.common.pyselenium:my_print:74 - FAIL    Unable to get element text element: <class->user-name>, Spend 30.588749408721924 seconds
+2019-10-08 15:37:55.068 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_login.TestLogin.test_01_login_1_20191008153754_NG.png, Spend 0.38102197647094727 seconds
+2019-10-08 15:37:57.158 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0901193618774414 seconds
+2019-10-08 15:37:57.159 | INFO     | public.common.mytest:tearDown:26 - ###############################  End  ###############################
+2019-10-08 15:37:57.169 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 15:37:59.721 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5521459579467773 seconds
+2019-10-08 15:38:00.832 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1110634803771973 seconds
+2019-10-08 15:38:04.810 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 3.9782278537750244 seconds
+2019-10-08 15:38:04.810 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 15:38:04.944 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.13300752639770508 seconds
+2019-10-08 15:38:05.024 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.07900476455688477 seconds
+2019-10-08 15:38:05.093 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06900405883789062 seconds
+2019-10-08 15:38:35.778 | INFO     | public.common.pyselenium:my_print:74 - FAIL    Unable to click element: <class->close>, Spend 30.684754848480225 seconds
+2019-10-08 15:38:36.175 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_workbench.TestWorkbench.test_loginout_1_20191008153835_NG.png, Spend 0.3960225582122803 seconds
+2019-10-08 15:38:38.262 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0861194133758545 seconds
+2019-10-08 15:38:38.263 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 15:38:38.268 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 15:38:40.809 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5411453247070312 seconds
+2019-10-08 15:38:41.937 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1280643939971924 seconds
+2019-10-08 15:38:44.148 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 2.2111265659332275 seconds
+2019-10-08 15:38:44.148 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 15:38:44.282 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.13400745391845703 seconds
+2019-10-08 15:38:44.365 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.08200430870056152 seconds
+2019-10-08 16:48:48.679 | INFO     | public.common.mytest:setUp:18 - ############################### START ###############################
+2019-10-08 16:48:51.211 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5321450233459473 seconds
+2019-10-08 16:48:52.353 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1410651206970215 seconds
+2019-10-08 16:49:04.719 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 12.364707469940186 seconds
+2019-10-08 16:49:04.720 | INFO     | public.common.mytest:setUp:22 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:49:04.855 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.13500761985778809 seconds
+2019-10-08 16:49:04.952 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.09700560569763184 seconds
+2019-10-08 16:49:05.007 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.054003238677978516 seconds
+2019-10-08 16:49:06.044 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get element text element: <class->user-name>, Spend 1.0370593070983887 seconds
+2019-10-08 16:49:06.047 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get current window url, Spend 0.0030002593994140625 seconds
+2019-10-08 16:49:06.427 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get the current window screenshot,path: E:\Projects\UI923\img\test_login.TestLogin.test_01_login_1_20191008164906_NG.png, Spend 0.3800215721130371 seconds
+2019-10-08 16:49:08.517 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0901198387145996 seconds
+2019-10-08 16:49:08.518 | INFO     | public.common.mytest:tearDown:26 - ###############################  End  ###############################
+2019-10-08 16:49:08.523 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 16:49:11.100 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5761475563049316 seconds
+2019-10-08 16:49:12.229 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1290643215179443 seconds
+2019-10-08 16:49:19.180 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 6.949397563934326 seconds
+2019-10-08 16:49:19.181 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:49:19.326 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.14500832557678223 seconds
+2019-10-08 16:49:19.417 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.09100532531738281 seconds
+2019-10-08 16:49:19.478 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06100344657897949 seconds
+2019-10-08 16:49:21.659 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->close>, Spend 2.1811249256134033 seconds
+2019-10-08 16:49:21.728 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-message-box__btns>button:nth-child(2)>, Spend 0.06900382041931152 seconds
+2019-10-08 16:49:21.781 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get element text element: <class->title>, Spend 0.05300283432006836 seconds
+2019-10-08 16:49:21.787 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get current window url, Spend 0.00500035285949707 seconds
+2019-10-08 16:49:23.873 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0851194858551025 seconds
+2019-10-08 16:49:23.874 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 16:49:23.875 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 16:49:26.466 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5911481380462646 seconds
+2019-10-08 16:49:27.598 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1320648193359375 seconds
+2019-10-08 16:49:34.266 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 6.667381525039673 seconds
+2019-10-08 16:49:34.266 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:49:34.399 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.13300776481628418 seconds
+2019-10-08 16:49:34.484 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.08500456809997559 seconds
+2019-10-08 16:49:34.553 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06800365447998047 seconds
+2019-10-08 16:49:35.631 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 1.077061653137207 seconds
+2019-10-08 16:49:40.737 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.10600590705871582 seconds
+2019-10-08 16:49:46.362 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.6240355968475342 seconds
+2019-10-08 16:49:56.393 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 5.029287576675415 seconds
+2019-10-08 16:50:01.485 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.09100508689880371 seconds
+2019-10-08 16:50:11.555 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 5.069289684295654 seconds
+2019-10-08 16:50:21.596 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 5.04028844833374 seconds
+2019-10-08 16:50:28.732 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.1351218223571777 seconds
+2019-10-08 16:50:28.733 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 16:56:13.220 | INFO     | public.common.mytest:setUp:18 - ############################### START ###############################
+2019-10-08 16:56:15.763 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5431456565856934 seconds
+2019-10-08 16:56:16.885 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1220641136169434 seconds
+2019-10-08 16:56:19.533 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 2.646151304244995 seconds
+2019-10-08 16:56:19.533 | INFO     | public.common.mytest:setUp:22 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:56:19.666 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 18680669602, Spend 0.13200759887695312 seconds
+2019-10-08 16:56:19.759 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: jimi123, Spend 0.09300518035888672 seconds
+2019-10-08 16:56:19.814 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.05500316619873047 seconds
+2019-10-08 16:56:20.907 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get element text element: <class->user-name>, Spend 1.0930626392364502 seconds
+2019-10-08 16:56:20.913 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get current window url, Spend 0.005000591278076172 seconds
+2019-10-08 16:56:23.004 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0911192893981934 seconds
+2019-10-08 16:56:23.005 | INFO     | public.common.mytest:tearDown:26 - ###############################  End  ###############################
+2019-10-08 16:56:23.006 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 16:56:25.560 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5531461238861084 seconds
+2019-10-08 16:56:26.704 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1430654525756836 seconds
+2019-10-08 16:56:29.037 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 2.3331334590911865 seconds
+2019-10-08 16:56:29.038 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:56:29.164 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.1260073184967041 seconds
+2019-10-08 16:56:29.242 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.07700467109680176 seconds
+2019-10-08 16:56:29.316 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.07300424575805664 seconds
+2019-10-08 16:56:30.430 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->close>, Spend 1.1130635738372803 seconds
+2019-10-08 16:56:30.499 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-message-box__btns>button:nth-child(2)>, Spend 0.06900405883789062 seconds
+2019-10-08 16:56:30.555 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get element text element: <class->title>, Spend 0.05500316619873047 seconds
+2019-10-08 16:56:30.559 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Get current window url, Spend 0.004000186920166016 seconds
+2019-10-08 16:56:32.634 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.0751190185546875 seconds
+2019-10-08 16:56:32.635 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
+2019-10-08 16:56:32.636 | INFO     | public.common.mytest:setUp:31 - ############################### START ###############################
+2019-10-08 16:56:35.175 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Start a new browser: Chrome, Spend 2.5371451377868652 seconds
+2019-10-08 16:56:36.308 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Set browser window maximized, Spend 1.1330645084381104 seconds
+2019-10-08 16:56:39.555 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Navigated to http://39.100.87.170:8090/#/login, Spend 3.246185541152954 seconds
+2019-10-08 16:56:39.555 | INFO     | public.common.mytest:setUp:35 - ´ò¿ªhttp://39.100.87.170:8090/#/login
+2019-10-08 16:56:39.682 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëµÇÂ¼ÕËºÅ/ÓÊÏä/ÊÖ»úºÅÂë']> content: 281878321@qq.com, Spend 0.1260073184967041 seconds
+2019-10-08 16:56:39.777 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clear and type element: <css->[placeholder='ÇëÊäÈëÃÜÂë']> content: q5310543, Spend 0.09400534629821777 seconds
+2019-10-08 16:56:39.838 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06100344657897949 seconds
+2019-10-08 16:56:40.947 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 1.1080634593963623 seconds
+2019-10-08 16:56:46.022 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.07500433921813965 seconds
+2019-10-08 16:56:51.103 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.08100438117980957 seconds
+2019-10-08 16:56:56.222 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.11700654029846191 seconds
+2019-10-08 16:57:01.331 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.10800623893737793 seconds
+2019-10-08 16:57:06.450 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.11800694465637207 seconds
+2019-10-08 16:57:11.571 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Clicked element: <css->.el-submenu.is-opened>, Spend 0.11900711059570312 seconds
+2019-10-08 16:57:18.700 | INFO     | public.common.pyselenium:my_print:74 - SUCCESS    Closed all window and quit the driver, Spend 2.128121852874756 seconds
+2019-10-08 16:57:18.701 | INFO     | public.common.mytest:tearDown:40 - ###############################  End  ###############################
